@@ -1,0 +1,6 @@
+{
+    "rewrites": [{
+        "source": "/ella",
+        "destination": "https://ellaskincare.co.id/"
+    }]
+}
