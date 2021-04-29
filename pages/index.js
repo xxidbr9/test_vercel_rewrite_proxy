@@ -1,6 +1,5 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
-import Link from 'next/link'
 export default function Home() {
   return (
     <div className={styles.container}>
@@ -20,15 +19,15 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <Link href="/ella" className={styles.card}>
+          <a href="/ella" className={styles.card}>
             <h3>Ella Skincare Home Page &rarr;</h3>
             <p>Ella Skincare Reverse Proxy</p>
-          </Link>
+          </a>
 
-          <Link href="/spot" className={styles.card}>
+          <a href="/spot" className={styles.card}>
             <h3>Spothub &rarr;</h3>
             <p>Spothub ella reverse Proxy</p>
-          </Link>
+          </a>
         </div>
       </main>
 
