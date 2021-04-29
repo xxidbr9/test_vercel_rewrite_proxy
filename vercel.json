@@ -1,6 +1,11 @@
 {
     "rewrites": [{
-        "source": "/ella",
-        "destination": "https://ellaskincare.co.id/"
-    }]
+            "source": "/ella",
+            "destination": "https://ellaskincare.co.id/"
+        },
+        {
+            "source": "/spot",
+            "destination": "https://www.spothub.ellaskincare.co.id/"
+        }
+    ]
 }
