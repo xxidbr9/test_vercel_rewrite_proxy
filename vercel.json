@@ -1,11 +1,11 @@
 {
     "rewrites": [{
-            "source": "/ella",
-            "destination": "https://ellaskincare.co.id/"
+            "source": "/bersih-berkilau",
+            "destination": "https://www.glow.ellaskincare.co.id/"
         },
         {
-            "source": "/spot",
-            "destination": "https://www.spothub.ellaskincare.co.id/"
+            "source": "/reseller",
+            "destination": "https://www.reseller.ellaskincare.co.id/"
         }
     ]
 }

@@ -19,14 +19,14 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="/ella" className={styles.card}>
-            <h3>Ella Skincare Home Page &rarr;</h3>
-            <p>Ella Skincare Reverse Proxy</p>
+          <a href="/bersih-berkilau" className={styles.card}>
+            <h3>Glow &rarr;</h3>
+            <p>ella Bersih bersilau</p>
           </a>
 
-          <a href="/spot" className={styles.card}>
-            <h3>Spothub &rarr;</h3>
-            <p>Spothub ella reverse Proxy</p>
+          <a href="/reseller" className={styles.card}>
+            <h3>reseller</h3>
+            <p>Reseller</p>
           </a>
         </div>
       </main>
